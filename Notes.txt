@@ -1,1 +1,2 @@
 Team Notes: Student A is learning Git branching.
+Team Notes: Student B is learning Git collaboration.
